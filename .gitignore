@@ -1,3 +1,13 @@
+workclock-env/
+venv/
+.venv/
+__pycache__
+python-fingerprint_1.5_all.deb
+server.crt
+workclock.code-workspace
+server.key
+*.key
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
